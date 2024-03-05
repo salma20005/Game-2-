@@ -4,7 +4,7 @@
 The objective of the game is for players to enter a list of numbers such that the sum of any three numbers equals 15. The player who achieves this first will be declared the winner.
 
 ## Rules
-1. Each player must enter a list of numbers containing 4 or 5 numbers.
+1. Each player must enter a list of numbers containing 3,4 or 5 numbers.
 2. The sum of any three numbers in the list must equal 15 for a player to win.
 3. Numbers entered by a player must be in the range 1 to 9.
 4. Players cannot enter the same number more than once.
